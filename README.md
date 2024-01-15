@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ashish-ka
+- 👋 Hi, I’m Ashish Yadav
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning How to design Machine Learning Systems
-- 💞️ I’m looking to collaborate on a ML Competition or Time Series Analysis & Forecasting Project
+- 💞️ I’m looking to collaborate on an ML Competition or Time Series Analysis & Forecasting Project
 - 📫 Ping me at ashishyadav@khanacademy.org
 - ⚡ Fun fact: I have recently started playing Piano and Cricket is a sport that truly captivates me
 
